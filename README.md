@@ -8,6 +8,17 @@ An unofficial rebuild of **Vazkii, williewillus**'s original work, kept running 
 
 Loader: Fabric, NeoForge.
 
+## Versions
+
+| Minecraft | Loader |
+|---|---|
+| 26.3 | Fabric, NeoForge |
+| 26.2 | Fabric, NeoForge |
+
+## Requires
+
+- **Fabric API**
+
 ## Source
 
 The original is not released under terms that let us republish its code, so there is none here and there will not be. This repository is notes and nothing more.
